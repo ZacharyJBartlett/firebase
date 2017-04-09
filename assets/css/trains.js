@@ -14,6 +14,13 @@ var train = "";
 var destination = "";
 var firstTrain = "";
 var frequency = "";
+var firstTimeConverted = "";
+var currentTime = "";
+var diffTime = "";
+var tRemainder = "";
+var minutesTillTrain = "";
+var nextTrain = "";
+var nextTrainFormatted = "";
 
 
 
